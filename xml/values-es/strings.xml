@@ -1,0 +1,58 @@
+<resources>
+    <string name="lang">es</string>
+
+    <string name="wind_format_kmh">%.0f km/h</string>
+    <string name="wind_format_mph">%.0f mph</string>
+    <string name="wind_format_ms">%.0f m/s</string>
+    <string name="wind_format_kts">%.0f kts</string>
+    <string name="wind_format_force">Force %.0f</string>
+
+    <string name="minute_format">%d min</string>
+    <string name="celsius_temp">%.0f°C</string>
+    <string name="fahrenheit_temp">%.0f°F</string>
+    <string name="short_temp">%2.0f°</string>
+
+    <string name="retry_action">REINTENTAR</string>
+    <string name="purchase_action">Comprar</string>
+    <string name="open_settings_action">ABRIR AJUSTES DE APLICACIÓN</string>
+    <string name="by_forecast">Generado por Dark Sky.</string>
+
+    <string name="current_location">Ubicación actual</string>
+    <string name="new_location">Añadir ubicación</string>
+
+    <string name="location_permission_denied">Has desactivado los permisos necesarios para acceder a tu ubicación. </string>
+
+    <string name="new_location_error_button">Añadir ubicación</string>
+
+    <!-- Day view -->
+    <string name="temperature">Temperatura</string>
+    <string name="sky">Lluvia y nubes</string>
+    <string name="wind">Viento</string>
+
+    <!-- place picker activity -->
+    <string name="autocomplete_hint">Introduzca el nombre del lugar o la dirección</string>
+
+    <string name="color_guide">Leyenda de colores</string>
+    <string name="feedback">Enviar opiniones</string>
+    <string name="settings">Ajustes</string>
+    <string name="definite">Definido</string>
+    <string name="possible">Posible</string>
+    <string name="unlikely">Poco posible</string>
+    <string name="add_widget">Añadir widget</string>
+    <string name="title_activity_configure_widget">Configure su widget</string>
+    <string name="loading">Cargando…</string>
+    <string name="units">Unidades</string>
+    <string name="intro_activity">Bienvenido a Forecaster</string>
+    <string name="slide_1_description">Bienvenido a Forecaster. \n El tiempo de la semana en un vistazo.</string>
+    <string name="slide_2_description">El tiempo de cada día está resumido por una barra de colores.</string>
+    <string name="slide_3_description">The color represents the weather at that time.</string>
+    <string name="slide_4_description">Expande un día para obtener detalles, temperatura y previsiones de viento.</string>
+    <string name="upcoming_rain">Futura luvia</string>
+    <string name="this_week">Esta semana</string>
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="currently_header">Condiciones actuales</string>
+    <string name="alerts_header">Alertas de tiempo</string>
+    <string name="saved_location_subheader">Guardada</string>
+    <string name="last_updated">Ultima vez actualizado a las %s. </string>
+</resources>

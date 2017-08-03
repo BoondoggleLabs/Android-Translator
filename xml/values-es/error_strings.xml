@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_suspended_error">Ubicación temporalmente no disponible. Por favor, prebe de nuevo.</string>
+
+    <string name="location_unavailable_error">Ubicación local temporalmente no disponible.</string>
+    <string name="license_check_failed_error">No se pudo verificar la licencia.</string>
+    <string name="unlicensed_error">La aplicación no está licenciada, puedes comprarla en Google Play.</string>
+
+    <string name="API_UNAVAILABLE_error">El sistema de ubicaciones no esta disponible en este dispositivo.</string>
+    <string name="INTERNAL_ERROR_error">Error intrno. Por favor, pruebe de nuevo.</string>
+    <string name="INVALID_ACCOUNT_error">Cuenta de Google Play invalida.</string>
+    <string name="NETWORK_ERROR_error">Error de red ocurrido. Por favor, prebe de nuevo.</string>
+    <string name="SERVICE_DISABLED_error">Los servicios de Google Play han sido desabiliados. Por favor, rehsbilitelos psra continuar.</string>
+    <string name="SERVICE_MISSING_error">Faltan los servicios de Google Play.</string>
+    <string name="SERVICE_UPDATING_error">Los servicios de Google Play están siendo actiualiados. Por favor, prebe de nuevo en un rato.</string>
+    <string name="SERVICE_VERSION_UPDATE_REQUIRED_error">Los servicios de Google Play services estan desactualizados. Por favor, actualicelos.</string>
+    <string name="TIMEOUT_error">Compruebe su conexión y pruebe de nuevo.</string>
+    <string name="default_play_services_error">No nos podemos conectar a los Servicios de Google Play</string>
+
+    <string name="odd_weather_response_error">Algo fue mal al actualizar los datos del tiempo.</string>
+    <string name="weather_server_broken_error">La conexión con el servidor del tiempo falló.</string>
+    <string name="default_retrofit_error">Algo fue mal al descargar los datos del tiempo. </string>
+    <string name="network_error">No hay conexión a internet.</string>
+
+</resources>

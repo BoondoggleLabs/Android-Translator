@@ -1,0 +1,60 @@
+<resources>
+    <string name="title_activity_settings">Einstellungen</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="temperature_units">Temperatureinheiten</string>
+    <string-array name="unit_selection">
+        <item>Fahrenheit (°F)</item>
+        <item>Celsius (ºC)</item>
+    </string-array>
+    <string name="temperature_units_default">celsius</string>
+
+    <string name="wind_speed_units">Windgeschwindigkeit Einheiten</string>
+    <string-array name="wind_speed_unit_selection">
+        <item>Meilen pro Stunde (mph)</item>
+        <item>Kilometer pro Stunde (km/h)</item>
+        <item>Knoten (kts)</item>
+        <item>Meter pro Sekunde (m/s)</item>
+        <item>Beafortskala</item>
+    </string-array>
+    <string name="wind_speed_units_default">kmh</string>
+
+    <string name="precipitation_units">Niederschlag Einheiten</string>
+    <string-array name="precipitation_unit_selection">
+        <item>Zentimeter (cm)</item>
+        <item>Millimeter (mm)</item>
+        <item>Inches (in)</item>
+    </string-array>
+    <string name="precipitation_units_default">cm</string>
+
+    <string-array name="night_mode_options">
+        <item>Automatisch</item>
+        <item>Hell</item>
+        <item>Dunkel</item>
+    </string-array>
+    <string name="theme">Aussehen</string>
+
+    <string name="show_alerts">Wetterwarnungen</string>
+
+    <!-- Days for widgets -->
+    <string-array name="days_of_week">
+        <item>Heute</item>
+        <item>Morgen</item>
+        <item>In 2 Tagen</item>
+        <item>In 3 Tagen</item>
+        <item>In 4 Tagen</item>
+        <item>In 5 Tagen</item>
+        <item>In 6 Tagen</item>
+    </string-array>
+
+
+    <string name="time_range">Frühe Morgenstunden</string>
+    <string name="time_range_summaryOn">Zeigt die vollen 24 Stunden für jeden Tag</string>
+    <string name="time_range_summaryOff">Zeigt von 5 Uhr morgens bis Mitternacht</string>
+
+    <string name="show_minMax">Temperatur Zusammenfassungen</string>
+    <string name="show_minMax_summary">Zeige min/max Temperaturen bei jeder Regen- &amp; Bewölkungsvorhersage</string>
+    <string name="weatherCards">Wetterkarten</string>
+</resources>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_suspended_error">Impossible de récuperer la position. Veuillez réessayer.</string>
+
+    <string name="location_unavailable_error">Position actuelle indisponible.</string>
+    <string name="license_check_failed_error">Echec lors de la validation de la licence.</string>
+    <string name="unlicensed_error">Licence manquante, vous pouvez acheter cette application sur Google Play.</string>
+
+    <string name="API_UNAVAILABLE_error">l\'API de géolocalisation est indisponible sur cet appareil.</string>
+    <string name="INTERNAL_ERROR_error">Erreur interne. Veuillez réessayer.</string>
+    <string name="INVALID_ACCOUNT_error">Compte Google Play invalide.</string>
+    <string name="NETWORK_ERROR_error">Erreur réseau. Veuillez réessayer.</string>
+    <string name="SERVICE_DISABLED_error">Les services Google Play ont été désactivés. Veuillez les réactivés pour continuer.</string>
+    <string name="SERVICE_MISSING_error">Services Google Play manquants.</string>
+    <string name="SERVICE_UPDATING_error">Les services Google Play sont en train d\'être mis à jour. Veuillez réessayer dans un instant.</string>
+    <string name="SERVICE_VERSION_UPDATE_REQUIRED_error">Les services Google Play ne sont pas à jour. Veuillez mettre à jour.</string>
+    <string name="TIMEOUT_error">Vérifiez votre connexion et réessayez.</string>
+    <string name="default_play_services_error">Impossible de se connecter aux services Google Play.</string>
+
+    <string name="odd_weather_response_error">Erreur lors de la lecture des données météo. </string>
+    <string name="weather_server_broken_error">Echec lors de la connexion au server météo.</string>
+    <string name="default_retrofit_error">Erreur lors du téléchargement des données météo. </string>
+    <string name="network_error">Pas de connexion internet.</string>
+
+</resources>

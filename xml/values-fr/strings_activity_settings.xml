@@ -1,0 +1,59 @@
+<resources>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="temperature_units">Unité de température</string>
+    <string-array name="unit_selection">
+        <item>Fahrenheit (°F)</item>
+        <item>Celsius (ºC)</item>
+    </string-array>
+    <string name="temperature_units_default">fahrenheit</string>
+
+    <string name="wind_speed_units">Unité de vitesse du vent</string>
+    <string-array name="wind_speed_unit_selection">
+        <item>Miles par heure (mph)</item>
+        <item>Kilometres par heure (km/h)</item>
+        <item>Noeuds (nd)</item>
+        <item>Metres par secondes (m/s)</item>
+        <item>Échelle de Beaufort</item>
+    </string-array>
+    <string name="wind_speed_units_default">mph</string>
+
+    <string name="precipitation_units">Unité de précipitations</string>
+    <string-array name="precipitation_unit_selection">
+        <item>Centimètres (cm)</item>
+        <item>Millimètres (mm)</item>
+        <item>Pouces (in)</item>
+    </string-array>
+    <string name="precipitation_units_default">cm</string>
+
+    <string-array name="night_mode_options">
+        <item>Automatique</item>
+        <item>Clair</item>
+        <item>Sombre</item>
+    </string-array>
+    <string name="theme">Thème</string>
+
+    <string name="show_alerts">Alertes météo</string>
+
+    <!-- Days for widgets -->
+    <string-array name="days_of_week">
+        <item>Aujourd\'hui</item>
+        <item>Demain</item>
+        <item>Dans 2 jours</item>
+        <item>Dans 3 jours</item>
+        <item>Dans 4 jours</item>
+        <item>Dans 5 jours</item>
+        <item>Dans 6 jours</item>
+    </string-array>
+
+
+    <string name="time_range">Heures matinales</string>
+    <string name="time_range_summaryOn">Afficher les 24 heures de chaque jours</string>
+    <string name="time_range_summaryOff">Monter de 5h à minuit</string>
+
+    <string name="show_minMax">Résumé des températures</string>
+    <string name="show_minMax_summary">Afficher les températures min/max avec chaque prévisons Nuages &amp; Pluie</string>
+    <string name="weatherCards">Cartes météo</string>
+</resources>

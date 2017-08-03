@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_config_location">ubicación</string>
+    <string name="widget_config_day_of_the_week">Día de la semana</string>
+
+    <string name="dark_mode">Tema oscuro</string>
+    <string name="transparent_background">Fondo transparente</string>
+    <string name="show_minMax_widget">Resumen de temperatura</string>
+    <string name="show_minMax_widget_summary">Mostrar temperaturas mín/máx</string>
+
+    <string name="data">Datos</string>
+
+</resources>

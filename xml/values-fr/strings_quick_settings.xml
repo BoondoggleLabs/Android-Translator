@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize">Personnaliser forecast</string>
+
+    <string name="never_show_upcoming_rain">Ne jamais montrer les prochaines pluies</string>
+    <string name="never_show_alerts">Ne jamais montrer les alertes météo</string>
+    <string name="never_show_currently">Ne jamais montrer les conditions météo actuelles</string>
+
+    <string name="show_minutely">Prochaines pluies</string>
+    <string name="show_currently">Conditions actuelles</string>
+    <string name="show_minutely_summary">Les probabilité de pluie pour les prochaines 60 minutes si de la pluie est prévue</string>
+    <string name="show_currently_summary">Résumé de la météo et des températures pour les prochaines 24h</string>
+    <string name="show_alerts_summary">Alertes météo importantes fournies par l\'autorité météorologie gouvernementale locale</string>
+</resources>

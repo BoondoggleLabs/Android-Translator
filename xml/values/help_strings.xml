@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="snow_explanation">There is a strong chance of snow.</string>
+    <string name="snow">Snow</string>
+    <string name="scattered_snow_explanation">There will be snow in the area, but we aren’t sure if it will hit your exact location.</string>
+    <string name="scattered_snow">Scattered snow</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="cloudy_explanation" formatted="false" >More than 75% of the sky will be covered by cloud. No precipitation is forecast.</string>
+    <string name="scattered_rain_explanation">There will be rain in the area, but we aren’t sure if it will hit your exact location.</string>
+    <string name="scattered_rain">Scattered rain</string>
+    <string name="rain">Rain</string>
+    <string name="rain_explanation">There is a strong chance of rain.</string>
+    <string name="partly_cloudy_explanation" formatted="false" >Between 25% and 75% of the sky will be covered by cloud. No precipitation is forecast.</string>
+    <string name="clear_explanation" formatted="false" >No precipitation is forecast and less than 25% of the sky will be covered by cloud.</string>
+    <string name="clear">Clear</string>
+    <string name="partly_cloudy">Partly cloudy</string>
+
+    <string name="sleet">Sleet</string>
+    <string name="scattered_sleet">Scattered sleet</string>
+    <string name="hail">Hail</string>
+    <string name="scattered_hail">Scattered hail</string>
+</resources>

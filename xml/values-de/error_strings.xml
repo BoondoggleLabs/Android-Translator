@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_suspended_error">Der Standort kann nicht gefunden werden. Bitte versuche es erneut.</string>
+
+    <string name="location_unavailable_error">Der aktuelle Standort ist nicht verfügbar.</string>
+    <string name="license_check_failed_error">Lizenz konnte nicht überprüft werden.</string>
+    <string name="unlicensed_error">App ist nicht lizenziert. Du kannst sie über Google Play erwerben.</string>
+
+    <string name="API_UNAVAILABLE_error">Die Standorte-API ist auf diesem Gerät nicht verfügbar.</string>
+    <string name="INTERNAL_ERROR_error">Interner Fehler. Bitte versuche es erneut.</string>
+    <string name="INVALID_ACCOUNT_error">Google Play-Konto ungültig.</string>
+    <string name="NETWORK_ERROR_error">Netzwerkfehler. Bitte versuche es erneut.</string>
+    <string name="SERVICE_DISABLED_error">Google Play-Dienste wurden deaktiviert. Bitte aktivieren, um fortzufahren.</string>
+    <string name="SERVICE_MISSING_error">Google Play-Dienste fehlen.</string>
+    <string name="SERVICE_UPDATING_error">Google Play-Dienste werden derzeit aktualisiert. Bitte versuche es zu einem späteren Zeitpunkt noch einmal.</string>
+    <string name="SERVICE_VERSION_UPDATE_REQUIRED_error">Google Play-Dienste sind nicht mehr aktuell. Bitte aktualisieren.</string>
+    <string name="TIMEOUT_error">Überprüfe deine Verbindung und versuche es erneut.</string>
+    <string name="default_play_services_error">Kann keine Verbindung zu Google Play-Diensten herstellen.</string>
+
+    <string name="odd_weather_response_error">Bei der Analyse der Wetterdaten ist ein Fehler aufgetreten. </string>
+    <string name="weather_server_broken_error">Die Verbindung zum Wetterserver ist fehlgeschlagen.</string>
+    <string name="default_retrofit_error">Beim Herunterladen der Wetterdaten ist ein Fehler aufgetreten. </string>
+    <string name="network_error">Keine Internetverbindung.</string>
+
+</resources>

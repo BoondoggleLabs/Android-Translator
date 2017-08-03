@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize">Personalizar previsión</string>
+
+    <string name="never_show_upcoming_rain">Nunca muestrar la previsión de lluvia</string>
+    <string name="never_show_alerts">Nunca muestrar alertas de tiempo</string>
+    <string name="never_show_currently">Nunca mostrar condiciones actuales</string>
+
+    <string name="show_minutely">Lluvia futura</string>
+    <string name="show_currently">Condiciones actuales</string>
+    <string name="show_minutely_summary">La posibilidad de lluvia en los siguientes 60 minutos es alta</string>
+    <string name="show_currently_summary">Vista de temperatura y tiempo actual</string>
+    <string name="show_alerts_summary">Alertas graves enviados por las autoridades locales de tiempo</string>
+</resources>

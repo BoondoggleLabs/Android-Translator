@@ -1,0 +1,59 @@
+<resources>
+    <string name="title_activity_settings">Ajustes</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="temperature_units">Unidades de temperatura</string>
+    <string-array name="unit_selection">
+        <item>Fahrenheit (°F)</item>
+        <item>Celsius (ºC)</item>
+    </string-array>
+    <string name="temperature_units_default">celsius</string>
+
+    <string name="wind_speed_units">Unidades de velocidad de viento</string>
+    <string-array name="wind_speed_unit_selection">
+        <item>Millas por hora (mph)</item>
+        <item>Kilometros por hora (km/h)</item>
+        <item>Nudos (kts)</item>
+        <item>Metros por segundo (m/s)</item>
+        <item>Escala de Beaufort</item>
+    </string-array>
+    <string name="wind_speed_units_default">kmh</string>
+
+    <string name="precipitation_units">Unidades de precipitación</string>
+    <string-array name="precipitation_unit_selection">
+        <item>Centimetros (cm)</item>
+        <item>Milímetros (mm)</item>
+        <item>Pulgadas (in)</item>
+    </string-array>
+    <string name="precipitation_units_default">cm</string>
+
+    <string-array name="night_mode_options">
+        <item>Automatico</item>
+        <item>Claro</item>
+        <item>Oscuro</item>
+    </string-array>
+    <string name="theme">Tema</string>
+
+    <string name="show_alerts">Alertas de tiempo</string>
+
+    <!-- Days for widgets -->
+    <string-array name="days_of_week">
+        <item>Hoy</item>
+        <item>Mañana</item>
+        <item>En 2 días</item>
+        <item>En 3 días</item>
+        <item>En 4 días</item>
+        <item>En 5 días</item>
+        <item>En 6 días</item>
+    </string-array>
+
+
+    <string name="time_range">Primeras horas de la mañana</string>
+    <string name="time_range_summaryOn">Mostrando las 24h de cada día</string>
+    <string name="time_range_summaryOff">Mostrando de 5am hasta medianoche</string>
+
+    <string name="show_minMax">Resumen de temperatura</string>
+    <string name="show_minMax_summary">Mostrar temperaturas mín/máx con cada previsión del tiempo</string>
+    <string name="weatherCards">Tarjetas de tiempo</string>
+</resources>

@@ -1,0 +1,2 @@
+RewriteEngine On 
+RewriteRule ^([a-z]*)$ index.php?lang=$1 [NC,QSA]

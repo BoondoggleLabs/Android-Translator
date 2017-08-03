@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Wind format in kmph -->
+    <string name="connection_suspended_error">Temporarily unable to find location. Please try again.</string>
+
+    <string name="location_unavailable_error">Current location unavailable.</string>
+    <string name="license_check_failed_error">Couldn\'t verify license.</string>
+    <string name="unlicensed_error">App is unlicensed, you can buy this app on Google Play.</string>
+
+    <string name="API_UNAVAILABLE_error">Locations API is unavailable on this device.</string>
+    <string name="INTERNAL_ERROR_error">Internal error. Please try again.</string>
+    <string name="INVALID_ACCOUNT_error">Google Play account invalid.</string>
+    <string name="NETWORK_ERROR_error">Network error occurred. Please try again.</string>
+    <string name="SERVICE_DISABLED_error">Google Play services has been disabled. Please re-enable to continue.</string>
+    <string name="SERVICE_MISSING_error">Google Play services is missing.</string>
+    <string name="SERVICE_UPDATING_error">Google Play services are currently being updated. Please try again soon.</string>
+    <string name="SERVICE_VERSION_UPDATE_REQUIRED_error">Google Play services is out of date. Please update.</string>
+    <string name="TIMEOUT_error">Check your connection and try again.</string>
+    <string name="default_play_services_error">Can\'t connect to Google Play Services</string>
+
+    <string name="odd_weather_response_error">Something went wrong parsing the weather data. </string>
+    <string name="weather_server_broken_error">Connection to the weather server failed.</string>
+    <string name="default_retrofit_error">Something went wrong downloading the weather data. </string>
+    <string name="network_error">No internet connection.</string>
+
+</resources>

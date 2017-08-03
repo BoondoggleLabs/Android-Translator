@@ -1,0 +1,132 @@
+.uls-trigger {
+
+}
+
+.uls-menu {
+	position: absolute;
+	z-index: 1000;
+	display: none;
+	margin-top: 1px;
+	/* Styling */
+	background-color: #ffffff;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	-webkit-background-clip: padding-box;
+	-moz-background-clip: padding;
+	background-clip: padding-box;
+}
+
+.uls-wide {
+	min-width: 715px;
+	width: 45%;
+}
+
+.uls-medium {
+	min-width: 360px;
+	width: 30%;
+}
+
+/* Override the grid */
+.uls-medium.grid .row {
+	min-width: 300px;
+}
+
+.uls-narrow {
+	min-width: 180px;
+	width: 20%;
+}
+
+/* Override the grid */
+.uls-narrow.grid .row {
+	min-width: 150px;
+}
+
+.uls-search {
+	background-color: white;
+	padding: 5px 16px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DDD;
+}
+
+.grid .uls-search {
+	padding-left: 0;
+}
+
+/* Make space for magnifying class on the front */
+.uls-search-wrapper {
+	position: relative;
+	padding-left: 44px;
+	margin-right: 5px;
+	height: 32px;
+}
+
+.uls-search-label {
+	background: transparent url('../images/search.png') no-repeat scroll right center;
+	background-image: -webkit-linear-gradient(transparent, transparent), url('../images/search.svg');
+	/* @embed */
+	background-image: linear-gradient(transparent, transparent), url('../images/search.svg');
+	background-size: 20px;
+	background-position: center center;
+	height: 32px;
+	width: 44px;
+	display: block;
+	position: absolute;
+	left: 0;
+	opacity: 0.8;
+}
+
+.uls-search-input-wrapper {
+	position: relative;
+}
+
+/* There are two input boxes. This class applies to both of them */
+.uls-filterinput {
+	font-size: 16px;
+	height: 32px;
+	width: 100%;
+	/* For the custom clear (X) icon */
+	padding: 6px 25px 6px 0;
+
+	outline: none;
+	border: none;
+
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* This is the actual input */
+.uls-languagefilter {
+	background-color: transparent;
+	border: none;
+	color: #333;
+}
+
+/* This is the shadow input box showing completion suggestions */
+.uls-filtersuggestion {
+	background-color: white;
+	color: #888;
+}
+
+.uls-languagefilter-clear {
+	background: transparent url('../images/clear.png') no-repeat scroll left center;
+	background-image: -webkit-linear-gradient(transparent, transparent), url('../images/clear.svg');
+	/* @embed */
+	background-image: linear-gradient(transparent, transparent), url('../images/clear.svg');
+	background-size: 15px;
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+
+	/* Vertical margins: (32 - 15) / 2 */
+	margin: 8.5px 5px;
+	position: absolute;
+	right: 0;
+	/* Make it appear above the input boxes */
+	z-index: 1;
+}

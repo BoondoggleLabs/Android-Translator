@@ -1,0 +1,58 @@
+<resources>
+    <string name="lang">de</string>
+
+    <string name="wind_format_kmh">%.0f km/h</string>
+    <string name="wind_format_mph">%.0f mph</string>
+    <string name="wind_format_ms">%.0f m/s</string>
+    <string name="wind_format_kts">%.0f kts</string>
+    <string name="wind_format_force">Force %.0f</string>
+
+    <string name="minute_format">%d min</string>
+    <string name="celsius_temp">%.0f°C</string>
+    <string name="fahrenheit_temp">%.0f°F</string>
+    <string name="short_temp">%2.0f°</string>
+
+    <string name="retry_action">Wiederholen</string>
+    <string name="purchase_action">Kaufen</string>
+    <string name="open_settings_action">APP-EINSTELLUNGEN ÖFFNEN</string>
+    <string name="by_forecast">Bereitgestellt über Dark Sky.</string>
+
+    <string name="current_location">Aktueller Standort</string>
+    <string name="new_location">Standort hinzufügen</string>
+
+    <string name="location_permission_denied">Du hast die Berechtigungen deaktiviert, die für den Zugriff auf den aktuellen Standort erforderlich sind.</string>
+
+    <string name="new_location_error_button">Standort hinzufügen</string>
+
+    <!-- Day view -->
+    <string name="temperature">Temperatur</string>
+    <string name="sky">Regen &amp; Wolken</string>
+    <string name="wind">Winde</string>
+
+    <!-- place picker activity -->
+    <string name="autocomplete_hint">Standort suchen</string>
+
+    <string name="color_guide">Legende</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Einstellungen</string>
+    <string name="definite">Definitiv</string>
+    <string name="possible">Möglich</string>
+    <string name="unlikely">Unwahrscheinlich</string>
+    <string name="add_widget">Widget hinzufügen</string>
+    <string name="title_activity_configure_widget">Widget einstellen</string>
+    <string name="loading">Laden…</string>
+    <string name="units">Einheiten</string>
+    <string name="intro_activity">Willkommen bei Forecaster</string>
+    <string name="slide_1_description">Willkommen bei Forecaster. \n Das wöchentliche Wetter auf einen Blick.</string>
+    <string name="slide_2_description">Das Wetter jedes Tages wird durch einen farbigen Balken zusammengefasst.</string>
+    <string name="slide_3_description">Die Farbe repräsentiert das Wetter zum jeweiligen Zeitpunkt.</string>
+    <string name="slide_4_description">Erweitere einen Tag für Details, Temperatur- und Windprognosen.</string>
+    <string name="upcoming_rain">Kommender Regen</string>
+    <string name="this_week">Diese Woche</string>
+    <string name="today">Heute</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="currently_header">Aktuelle Bedingungen</string>
+    <string name="alerts_header">Wetterwarnungen</string>
+    <string name="saved_location_subheader">Meine Standorte</string>
+    <string name="last_updated">Zuletzt aktualisiert um %s. </string>
+</resources>

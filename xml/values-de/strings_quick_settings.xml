@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize">Anpassen der Wettervorhersage</string>
+
+    <string name="never_show_upcoming_rain">Keinen aufkommenden Regen anzeigen</string>
+    <string name="never_show_alerts">Keine Wetterwarnungen anzeigen</string>
+    <string name="never_show_currently">Keine aktuellen Wetterbedingungen anzeigen</string>
+
+    <string name="show_minutely">Aufkommender Regen</string>
+    <string name="show_currently">Aktuelle Wetterbedingungen</string>
+    <string name="show_minutely_summary">Regenwahrscheinlichkeit innerhalb der nächsten 60 Minuten, wenn vorhergesagt</string>
+    <string name="show_currently_summary">Aktuelle Temperatur- und Wetteraussichten</string>
+    <string name="show_alerts_summary">Unwetterwarnungen der örtlichen Wetterdienste</string>
+</resources>

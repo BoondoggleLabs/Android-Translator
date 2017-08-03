@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Irena Plahuta",
+			"Mateju",
+			"Amire80"
+		]
+	},
+	"uls-region-WW": "Svetovni jeziki",
+	"uls-region-SP": "Posebni",
+	"uls-region-AM": "Amerika",
+	"uls-region-AF": "Afrika",
+	"uls-region-EU": "Evropa",
+	"uls-region-AS": "Azija",
+	"uls-region-ME": "Bližnji vzhod",
+	"uls-region-PA": "Tihi ocean",
+	"uls-region-all": "Vsi jeziki",
+	"uls-no-results-found": "Ni zadetkov",
+	"uls-common-languages": "Predlagani jeziki",
+	"uls-no-results-suggestion-title": "Morda vas zanima:",
+	"uls-search-help": "Iščete lahko po imenu jezika, imenu pisave, jezikovni kodi ISO ali po področju.",
+	"uls-search-placeholder": "Poiščite jezik"
+}

@@ -1,0 +1,68 @@
+<resources>
+    <string name="lang">en</string>
+
+    <string name="app_name" translatable="false">Forecaster</string>
+
+    <!-- Wind format in kmph -->
+    <string name="wind_format_kmh">%.0f km/h</string>
+    <string name="wind_format_mph">%.0f mph</string>
+    <string name="wind_format_ms">%.0f m/s</string>
+    <string name="wind_format_kts">%.0f kts</string>
+    <string name="wind_format_force">Force %.0f</string>
+
+    <string name="minute_format">%d min</string>
+    <string name="celsius_temp">%.0f°C</string>
+    <string name="fahrenheit_temp">%.0f°F</string>
+    <string name="short_temp">%2.0f°</string>
+
+    <string name="retry_action">RETRY</string>
+    <string name="purchase_action">Purchase</string>
+    <string name="open_settings_action">OPEN APP SETTINGS</string>
+    <string name="by_forecast">Powered by Dark Sky.</string>
+
+    <string name="current_location">Current location</string>
+    <string name="new_location">Add location</string>
+
+
+    <string name="currently_summary">%s for the hour.</string>
+
+    <string name="location_permission_denied">You turned off permissions needed to access your current location. </string>
+
+    <string name="new_location_error_button">Add location</string>
+
+    <!-- Day view -->
+    <string name="temperature">Temperature</string>
+    <string name="sky">Rain &amp; cloud</string>
+    <string name="wind">Wind</string>
+
+    <!-- place picker activity -->
+    <string name="autocomplete_hint">Enter place name or address</string>
+
+    <string name="color_guide">Color guide</string>
+    <string name="feedback">Send feedback</string>
+    <string name="settings">Settings</string>
+    <string name="definite">Definite</string>
+    <string name="possible">Possible</string>
+    <string name="unlikely">Unlikely</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_configure_widget">Configure your widget</string>
+    <string name="loading">Loading…</string>
+    <string name="units">Units</string>
+    <string name="intro_activity">Welcome to Forecaster</string>
+    <string name="slide_1_description">Welcome to Forecaster. \n The weeks weather at a glance.</string>
+    <string name="slide_2_description">Each day’s weather is summarised by a colored bar.</string>
+    <string name="slide_3_description">The color represents the weather at that time.</string>
+    <string name="slide_4_description">Expand a day for details, temperature and wind forecasts.</string>
+    <string name="upcoming_rain">Upcoming rain</string>
+    <string name="this_week">This week</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="currently_header">Current conditions</string>
+    <string name="alerts_header">Weather warnings</string>
+    <string name="saved_location_subheader">Starred</string>
+    <string name="last_updated">Last updated at %s. </string>
+    <string name="disabled">Disabled</string>
+    <string name="turn_off">Turn off</string>
+    <string name="rain_alert_title">Rain alert for </string>
+    <string name="rain_alert_message">%1$s from %2$s</string>
+</resources>

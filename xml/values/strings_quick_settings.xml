@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize">Customize forecast</string>
+
+    <string name="never_show_upcoming_rain">Never show upcoming rain</string>
+    <string name="never_show_alerts">Never show weather alerts</string>
+    <string name="never_show_currently">Never show current conditions</string>
+
+    <string name="show_minutely">Upcoming rain showers</string>
+    <string name="show_currently">Show current conditions</string>
+    <string name="show_minutely_summary">Show a minute-by-minute breakdown of the rain forecast during a period of showers</string>
+    <string name="show_currently_summary">Current temperature and weather outlook</string>
+    <string name="show_alerts_summary">Severe weather alerts issued by the local governmental weather authority</string>
+</resources>

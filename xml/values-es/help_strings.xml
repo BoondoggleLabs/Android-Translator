@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="snow_explanation">Hay una gran posibilidad de nieve.</string>
+    <string name="snow">Nieve</string>
+    <string name="scattered_snow_explanation">Nevará en el área, pero no es seguro que estará en la ubicación exacta.</string>
+    <string name="scattered_snow">Nieve dispersada</string>
+    <string name="cloudy">Nublado</string>
+    <string name="cloudy_explanation" formatted="false" >More than 75% of the sky will be covered by cloud. No precipitation is forecast.</string>
+    <string name="scattered_rain_explanation">Lloverá en el área, pero no es seguro que estará en la ubicación exacta.</string>
+    <string name="scattered_rain">Lluvia dispersada</string>
+    <string name="rain">Lluvia</string>
+    <string name="rain_explanation">Hay una gran posibilidad de lluvia.</string>
+    <string name="partly_cloudy_explanation" formatted="false" >Entre el 25% y el 75% del cielo estará cubierto. No se preveen lluvias.</string>
+    <string name="clear_explanation" formatted="false" >No se preveen lluvias y menos del 25% del cielo será cubiero por nubes.</string>
+    <string name="clear">Despejado</string>
+    <string name="partly_cloudy">Parcialmente nublado</string>
+
+    <string name="sleet">Aguanieve</string>
+    <string name="scattered_sleet">Aguanieve dispersado</string>
+    <string name="hail">Granizo</string>
+    <string name="scattered_hail">Granizo dispersado</string>
+</resources>

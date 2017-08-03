@@ -1,0 +1,94 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="temperature_units">Temperature</string>
+    <string-array name="unit_selection">
+        <item>Fahrenheit (°F)</item>
+        <item>Celsius (ºC)</item>
+    </string-array>
+    <string-array name="unit_selection_values" translatable="false">
+        <item>fahrenheit</item>
+        <item>celsius</item>
+    </string-array>
+    <string name="temperature_units_default">fahrenheit</string>
+
+    <string name="wind_speed_units">Wind speed</string>
+    <string-array name="wind_speed_unit_selection">
+        <item>Miles per hour (mph)</item>
+        <item>Kilometers per hour (km/h)</item>
+        <item>Knots (kts)</item>
+        <item>Meters per second (m/s)</item>
+        <item>Beaufort Scale</item>
+    </string-array>
+    <string-array name="wind_speed_unit_selection_values" translatable="false">
+        <item>mph</item>
+        <item>kmh</item>
+        <item>kts</item>
+        <item>ms</item>
+        <item>force</item>
+    </string-array>
+    <string name="wind_speed_units_default">mph</string>
+
+    <string name="precipitation_units">Precipitation</string>
+    <string-array name="precipitation_unit_selection">
+        <item>Centimeters (cm)</item>
+        <item>Millimeters (mm)</item>
+        <item>Inches (in)</item>
+    </string-array>
+    <string-array name="precipitation_unit_selection_values" translatable="false">
+        <item>cm</item>
+        <item>mm</item>
+        <item>in</item>
+    </string-array>
+    <string name="precipitation_units_default">cm</string>
+
+    <string-array name="night_mode_options">
+        <item>Automatic</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="night_mode_options_values" translatable="false">
+        <item>automatic</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+    <string name="night_mode_default" translatable="false">light</string>
+    <string name="theme">Theme</string>
+
+    <string name="show_alerts">Show weather alert card</string>
+
+    <!-- Days for widgets -->
+    <string-array name="days_of_week">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>In 2 days</item>
+        <item>In 3 days</item>
+        <item>In 4 days</item>
+        <item>In 5 days</item>
+        <item>In 6 days</item>
+    </string-array>
+    <string-array name="days_of_week_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="days_of_week_default" translatable="false">0</string>
+
+
+    <string name="location_precision">Use precise location</string>
+    <string name="location_precision_summary">e.g. 1407 Graymalkin Lane</string>
+
+    <string name="time_range">Show early morning hours</string>
+    <string name="time_range_summaryOn">Showing the full 24 hours of each day</string>
+    <string name="time_range_summaryOff">Showing 5am to midnight</string>
+
+    <string name="show_minMax">Show temperature summaries</string>
+    <string name="show_minMax_summary">Beside each Rain &amp; Cloud forecast</string>
+    <string name="weatherCards">Weather cards</string>
+</resources>
