@@ -78,9 +78,6 @@ foreach($translations_directorys as $directory) {
 //print_r($resources);
 
 
-
-$strings = new SimpleXMLElement($xmlstr);
-
 //echo find_by_name($resources["error_strings.xml"]['default'], 'connection_suspended_error')
 
 
