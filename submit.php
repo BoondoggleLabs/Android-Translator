@@ -22,7 +22,7 @@ require '/mail/PHPMailerAutoload.php';
 
 $mail = new PHPMailer();
 
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+// Setup if you don't want the servers mail() function
 
 /*$mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp1.example.com;smtp2.example.com';  // Specify main and backup SMTP servers
@@ -33,7 +33,7 @@ $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, 
 $mail->Port = 587;                                    // TCP port to connect to*/
 
 $mail->setFrom('from@example.com', 'Mailer');
-$mail->addAddress('fredpedersen@gmail.com', 'Joe User');     // Add a recipient
+$mail->addAddress('youremail@thing.com', 'Joe User');     // Add a recipient
 $mail->addReplyTo($email, 'Information');
 
 foreach ($resources as $file => $langs){
