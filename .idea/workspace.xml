@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e492cb2-9828-4910-9b62-2afc1bc6ec69" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/aeb-latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/anp.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/arz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/as.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ast.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/av.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/awa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/azb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ba.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bbc-latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bcc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bcl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/be-tarask.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bgn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/bto.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ce.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ckb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/cop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/cv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/cy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/de-formal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/diq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/dsb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/dty.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/en-gb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/eo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/fy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ga.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/glk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gom-deva.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gom-latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/got.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gsw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hak.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/haw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hif-latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hrx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hsb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ia.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ie.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ilo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/inh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/io.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/jv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/kab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/khw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/kk-cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/krc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ksh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ku-latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lez.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/li.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/map-bms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/min.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/mzn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nah.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nds-nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nl-informal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/nso.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/oc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/olo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/om.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/or.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/os.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/pms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/pt-br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/qqq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/rup.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sah.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/scn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sco.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sdh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/shn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/skr-arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sr-ec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sr-el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tcy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tly.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tokipona.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tt-cyrl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/tzm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/udm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ug-arab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/vec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/vep.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/vo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/war.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/yi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/zea.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/zh-hans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lang-selector/i18n/zh-hant.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getStrings.php" afterPath="$PROJECT_DIR$/getStrings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit.php" afterPath="$PROJECT_DIR$/submit.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="submit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/submit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="143" column="44" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="44" />
+              <folding>
+                <marker date="1501839602517" expanded="true" signature="2861:2886" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/getStrings.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/submit.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="203" />
+    <option name="y" value="-14" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Android-Translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Translator" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e492cb2-9828-4910-9b62-2afc1bc6ec69" name="Default" comment="" />
+      <created>1501837526773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501837526773</updated>
+      <workItem from="1501837527914" duration="2924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2924000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ISO639.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="213" column="20" lean-forward="false" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="123" column="9" lean-forward="false" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getStrings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="62" column="31" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="143" column="44" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="44" />
+          <folding>
+            <marker date="1501839602517" expanded="true" signature="2861:2886" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -26,5 +26,10 @@ Add comments to any string.
 ##### Exporting as XML
 Once the user clicks submit on the last page, the xml will be created and emailed to the address coded in submit.php
 
+### Set up instructions
+1. Delete everything in /xml/ and replace with your own string resource files.
+2. Edit index.php changing the app name to your own, the email address and any text you wish to edit.
+3. Edit submit.php to configure PHPMailer to work with your server, and to send to your own email address.
+
 ### Contributing
 Feel free to refactor this and clean it up! Any commits welcome.
